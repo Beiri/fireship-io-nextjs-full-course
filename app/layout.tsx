@@ -19,7 +19,8 @@ export default function RootLayout({
         <body>
           <div className="container">
             <NavMenu />
-            {children}
+
+            <main>{children}</main>
           </div>
         </body>
       </html>

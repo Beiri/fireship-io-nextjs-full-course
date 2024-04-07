@@ -6,10 +6,10 @@ export default async function Users() {
   const users = await prisma.user.findMany();
 
   return (
-    <main className={styles.grid}>
+    <div className={styles.grid}>
       {users.map((user) => {
         return <UserCard key={user.id} {...user} />;
       })}
-    </main>
+    </div>
   );
 }

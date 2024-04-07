@@ -10,8 +10,8 @@ export default async function Home() {
   }
 
   return (
-    <main>
+    <div>
 
-    </main>
+    </div>
   );
 }
