@@ -20,8 +20,6 @@ export function ProfileForm({ user }: any) {
         'Content-Tyepe': 'application/json'
       }
     })
-
-    
   }
 
   return (
