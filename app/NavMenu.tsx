@@ -11,6 +11,7 @@ export default function NavMenu() {
           width={216}
           height={30}
           alt="NextSpace Logo"
+          priority
         />
       </Link>
       <ul className={styles.links}>
