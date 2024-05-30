@@ -1,4 +1,4 @@
-This is project was done following the Next.js - The Full Course found on https://fireship.io/courses/nextjs/
+This project was done following the Next.js - The Full Course found on https://fireship.io/courses/nextjs/
 
 This project provides a in-depth look into the Next.js App Router first introduced in version 13.2. It puts React Server Components into practice by building a full-stack application from scratch with PostgreSQL and Prisma.
 
